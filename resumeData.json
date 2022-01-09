@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name":"Jonathan Mitchell",
+    "description":"Front End Web Developer",
+    "image":"profilepic2.jpeg",
+    "bio":"Hello, world. I am a 31 year old Web Developer located in the Greater Cincinnati area. I use the following technologies to create responsive webpages: HTML5, CSS3, Sass, Bootstrap, JavaScript, React.JS, Node.js, Jquery, Axios, MongoDB, Express, and more!   ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jonmitchell1234@gmail.com",
+    "phone": "859-905-9864",
+    "github":"https://github.com/jonathanmitchell1234",
+    "project":"https://github.com/jonathanmitchell1234/jonathanmitchell1234.github.io",
+    "address":{
+      "street":"515 W 12th Street",
+      "city":"Newport",
+      "state":"KY",
+      "zip": "41071"
+    },
+    "website": "http://www.github.com/jonathanmitchell1234",
+    "resumedownload":"https://drive.google.com/file/d/1Ga7vj3yKKY7CEIOQkHxvjoVnwSQOiMka/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jonathan.c.mitchell.5",
+        "className":"fa fa-facebook"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jonathan-mitchell-81b6bb21a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/j0nathanmitchell",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jonathanmitchell1234",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Commonwealth Coders Academy",
+        "degree":"Certificate in Web/Software Development",
+        "graduated":"December 2021",
+        "description":"Commonwealth Coders is a Web/Software Development Bootcamp."
+      },
+      {
+        "school":"Northern Kentucky University",
+        "degree":"Psychology",
+        "graduated":"August 2009-August 2011",
+        "description":"Bachelor of the Arts in Psychology program. Did not complete."
+      }
+    ],
+    "work":[
+      {
+        "company":"The Brighton Center",
+        "title":"Web Developer ",
+        "years":"January 2022 - Present",
+        "description":"Maintain organization's website, update content, update features, increase SEO."
+      },
+      {
+        "company":"Shelterhouse",
+        "title":"Resident Advisor",
+        "years":"March 2017 - March 2020",
+        "description":"Complete intake and assesment of new clients. Log important interactions and Substance Abuse outreach in digital tracking system. Provide basic CPR and overdose prevention with Narcan (Naloxone.)  "
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"Sass",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"Jquery",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Password Generator",
+        "category":"Simple Javascript Password Generator",
+        "image":"01.png",
+        "url":"https://www.github.com/jonathanmitchell1234"
+      },
+      {
+        "title":"Poxedex",
+        "category":"Poxedex Built with Axios",
+        "image":"sc2.png",
+        "url":"https://www.github.com/jonathanmitchell1234"
+      },
+      {
+        "title":"FAQ Section",
+        "category":"My page of a group project, Javascript Accordion",
+        "image":"sc3.png",
+        "url":"https://www.github.com/jonathanmitchell1234"
+      },
+      {
+        "title":"Le Pain",
+        "category":"A mockup information site built with Bootstrap",
+        "image":"sc4.png",
+        "url":"https://www.github.com/jonathanmitchell1234"
+      }
+     
+    ]
+  }
+}
